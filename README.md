@@ -14,10 +14,8 @@ Eu sou o Johnatan Willow 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Como me encontrar:
-- 🌎 profjohnatanwillow.com
-- 📩 johnatanandrade@hotmail.com
-- 🔗 [meu LinkedIn](https://www.linkedin.com/in/johnatanwillow2/)
-
+- 🌎 [meu site](profjohnatanwillow.com)
+- 📩 [meu LinkedIn](https://www.linkedin.com/in/johnatanwillow2/)
 
 ⚡ Fun fact: Adoro café, astronomia e programação ☕
 
@@ -26,5 +24,8 @@ Eu sou o Johnatan Willow 👋
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanwillow&layout=compact&theme=dracula)
 
+![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
+
+# THANK YOU FOR VISITING MY PROFILE !
 
 ![Imagem de boas-vindas](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
