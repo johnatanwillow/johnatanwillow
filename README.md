@@ -1,4 +1,5 @@
-## printf("Olá, mundo!")
+## printf("Olá, mundo!"); ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
+
 Eu sou o Johnatan Willow 👋
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia. 
@@ -23,8 +24,6 @@ Eu sou o Johnatan Willow 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatanwillow&show_icons=true&theme=dracula)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanwillow&layout=compact&theme=dracula)
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
 
 # THANK YOU FOR VISITING MY PROFILE !
 
