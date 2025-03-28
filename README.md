@@ -1,6 +1,6 @@
-## Olá! (){
+## printf("Olá, mundo!")
 Eu sou o Johnatan Willow 👋
-}
+
 💻 Desenvolvedor Full Stack apaixonado por tecnologia. 
 
 🔭 Aluno de Sistemas de Informação (UFG) e professor de idiomas formado em Letras pela UFG.
