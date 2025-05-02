@@ -1,4 +1,5 @@
-## printf("Olá, mundo!");
+## printf("Olá, mundo!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
+
 Eu sou o Johnatan Willow 👋
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia. 
