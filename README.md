@@ -15,8 +15,16 @@ Eu sou o Johnatan Willow 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Como me encontrar:
-- 🌎 [meu site](profjohnatanwillow.com)
-- 📩 [meu LinkedIn](https://www.linkedin.com/in/johnatanwillow2/)
+- 🌐 [Meu Site](https://profjohnatanwillow.com/)
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/johnatanwillow2/)
+- 🚀 [Meu Portfólio GitHub](https://johnatanwillow.github.io/projeto-site-portfolio/)
+- 📚 [Meu livro na Amazon](https://www.amazon.com.br/dp/B0DJRPGJM3)
+
+## 📫 Onde me encontrar:
+- <a href="https://profjohnatanwillow.com/" target="_blank"><img src="https://img.shields.io/badge/Meu_Site-F28C28?style=for-the-badge&logo=wordpress&logoColor=white" alt="Meu Site"></a>
+- <a href="https://www.linkedin.com/in/johnatanwillow2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://johnatanwillow.github.io/projeto-site-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio GitHub"></a>
+- <a href="https://www.amazon.com.br/dp/B0DJRPGJM3" target="_blank"><img src="https://img.shields.io/badge/-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Meu Livro na Amazon"></a>
 
 ⚡ Fun fact: Adoro café, astronomia e programação ☕
 
