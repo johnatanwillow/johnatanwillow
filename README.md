@@ -22,7 +22,7 @@ Eu sou o Johnatan Willow 👋
 - <a href="https://www.youtube.com/@johnatanwillow" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> [meu canal no YouTube]
 
   
-⚡ Fun fact: Adoro café, astronomia e programação ☕
+⚡ Fun fact: Adoro café, astronomia e literatura ☕
 
 ## 📊 Estatísticas do GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatanwillow&show_icons=true&theme=dracula)
