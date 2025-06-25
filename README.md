@@ -20,7 +20,7 @@ Eu sou o Johnatan Willow 👋
 - <a href="https://www.linkedin.com/in/johnatanwillow2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [Meu LinkedIn]
 - <a href="https://johnatanwillow.github.io/projeto-site-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio GitHub"></a> [Meu Portfólio GitHub]
 - <a href="https://www.amazon.com.br/dp/B0DJRPGJM3" target="_blank"><img src="https://img.shields.io/badge/-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Meu Livro na Amazon"></a> [Meu livro publicado na Amazon]
-
+- <a href="https://www.youtube.com/@johnatanwillow" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> [meu canal no YouTube]
 ⚡ Fun fact: Adoro café, astronomia e programação ☕
 
 ## 📊 Estatísticas do GitHub:
