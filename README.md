@@ -29,6 +29,7 @@ Eu sou o Johnatan Willow 👋
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanwillow&layout=compact&theme=dracula)
 
+
 # THANK YOU FOR VISITING MY PROFILE !
 
 ![Imagem de boas-vindas](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
