@@ -25,7 +25,7 @@ Eu sou o Johnatan Willow 👋
 ⚡ Fun fact: Adoro café, astronomia e literatura ☕
 
 ## 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatanwillow&show_icons=true&theme=dracula)
+![GitHub Stats]
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanwillow&layout=compact&theme=dracula)
 
