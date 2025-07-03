@@ -27,7 +27,7 @@ Eu sou o Johnatan Willow 👋
 ## 📊 Estatísticas do GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatanwillow&show_icons=true&theme=dracula)
 
-![Linguagens Mais Usadas]
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanwillow&layout=compact&theme=dracula)
 
 
 # THANK YOU FOR VISITING MY PROFILE !
