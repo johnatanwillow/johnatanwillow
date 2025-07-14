@@ -27,7 +27,7 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 - <a href="https://www.youtube.com/@johnatanwillow" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> [meu canal no YouTube]
 
 ---
-## ⚡ Fun fact: Adoro café, astronomia e literatura ☕
+## ⚡ Fun fact: Amo café, Astronomia e Literatura ☕
 ### O meu brinquedinho (Greika 70070 Azimutal):
 ![IMG_20240727_003052796](https://github.com/user-attachments/assets/7fcd0f7b-940d-4758-b464-41b9ec66ed02)
 
