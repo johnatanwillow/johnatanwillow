@@ -29,7 +29,7 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 ---
 ##⚡ Fun fact: Adoro café, astronomia e literatura ☕
 ### O meu brinquedinho (Greika 70070 Azimutal):
-![IMG_20240727_003052796](https://github.com/user-attachments/assets/a8d8ed37-4eb8-446e-920a-11cdb7655885)
+![IMG_20240727_003052796](https://github.com/user-attachments/assets/7fcd0f7b-940d-4758-b464-41b9ec66ed02)
 
 ### O que eu costumo observar com ele
 ![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)]
