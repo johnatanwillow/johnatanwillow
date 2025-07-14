@@ -1,4 +1,4 @@
-# printf("Olá, mundo!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
+# printf("Olá, mundo!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=green)
 ---
 # I'm Johnatan Willow || Je suis Johnatan Willow 👋
 
@@ -27,13 +27,15 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 - <a href="https://www.youtube.com/@johnatanwillow" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> [meu canal no YouTube]
 
 ---
-##⚡ Fun fact: Adoro café, astronomia e literatura ☕
+## ⚡ Fun fact: Adoro café, astronomia e literatura ☕
 ### O meu brinquedinho (Greika 70070 Azimutal):
 ![IMG_20240727_003052796](https://github.com/user-attachments/assets/7fcd0f7b-940d-4758-b464-41b9ec66ed02)
 
-### O que eu costumo observar com ele
+### O que eu costumo observar com ele:
 ![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)]
 
+Outro fato que interessante: quase todo projeto criado, implementado e depositado aqui, tem uso em sala de aula objetivando o ENSINO-APRENDIZAGEM de crianças da Educação Infantil e Ensino Fundamental. Logo, o objetivo é usar linguagem de programação e código para ensinar humanos na ALFABEITZAÇÃO (AQUISIÇÃO DE PRIMEIRA LÍNGUA) e aprendizagem de Inglês (AQUISIÇÃO DE SEGUNDA LÍNGUA);
+![IMG_20250328_084319438_MP](https://github.com/user-attachments/assets/71193539-649a-49a1-94a2-2107a5849ca6)
 
 ---
 ## 📊 Estatísticas do GitHub:
