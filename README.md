@@ -34,8 +34,9 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 ### O que eu costumo observar com ele:
 ![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)]
 
-Outro fato que interessante: quase todo projeto criado, implementado e depositado aqui, tem uso em sala de aula objetivando o ENSINO-APRENDIZAGEM de crianças da Educação Infantil e Ensino Fundamental. Logo, o objetivo é usar linguagem de programação e código para ensinar humanos na ALFABEITZAÇÃO (AQUISIÇÃO DE PRIMEIRA LÍNGUA) e aprendizagem de Inglês (AQUISIÇÃO DE SEGUNDA LÍNGUA);
-![IMG_20250328_084319438_MP](https://github.com/user-attachments/assets/71193539-649a-49a1-94a2-2107a5849ca6)
+### OUTRO FATO CURIOSO:
+Quase todo projeto criado, implementado e depositado aqui, tem uso em sala de aula objetivando o ENSINO-APRENDIZAGEM de crianças da Educação Infantil e Ensino Fundamental. Logo, o objetivo é usar linguagem de programação e código para ensinar humanos na ALFABEITZAÇÃO (AQUISIÇÃO DE PRIMEIRA LÍNGUA) e aprendizagem de Inglês (AQUISIÇÃO DE SEGUNDA LÍNGUA);
+![VID_20250328_084206385 mp4 (1) (2) (1)](https://github.com/user-attachments/assets/5f3898c1-dc6f-4416-a60a-ba8ed2f39610)
 
 ---
 ## 📊 Estatísticas do GitHub:
