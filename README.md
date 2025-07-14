@@ -1,4 +1,4 @@
-# printf("Hello, World!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow-novo&color=green)
+# 💻printf("Hello, World!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow-novo&color=green)
 ---
 # I'm Johnatan Willow || Je suis Johnatan Willow 👋
 
