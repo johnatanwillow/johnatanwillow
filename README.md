@@ -32,7 +32,7 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 ![IMG_20240727_003052796](https://github.com/user-attachments/assets/7fcd0f7b-940d-4758-b464-41b9ec66ed02)
 
 ### O que eu costumo observar com ele:
-![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)]
+![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)
 
 ### OUTRO FATO CURIOSO:
 Quase todo projeto criado, implementado e depositado aqui, tem uso em sala de aula objetivando o ENSINO-APRENDIZAGEM de crianças da Educação Infantil e Ensino Fundamental. Logo, o objetivo é usar linguagem de programação e código para ensinar humanos na ALFABEITZAÇÃO (AQUISIÇÃO DE PRIMEIRA LÍNGUA) e aprendizagem de Inglês (AQUISIÇÃO DE SEGUNDA LÍNGUA);
