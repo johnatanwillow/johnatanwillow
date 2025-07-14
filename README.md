@@ -1,10 +1,11 @@
 # printf("Olá, mundo!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=blue)
 ---
-##Je suis Johnatan Willow || I'm Johnatan Willow👋
+#Je suis Johnatan Willow || I'm Johnatan Willow👋
 
 💻 Dev Full Stack apaixonado por linguagens (computacionais) && Professor de Idiomas (humanos)
 
 🔭 Atualmente, sou aluno de Sistemas de Informação na UFG e continuo explorando o vasto universo da programação e da educação linguística.
+
 ---
 ## 🚀 Tecnologias que estou aprendendo a usar e desenvolver:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
