@@ -1,4 +1,4 @@
-# printf("Olá, mundo!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=green)
+# printf("Hello, World!");  ![Contador de Visitas](https://komarev.com/ghpvc/?username=johnatanwillow&color=green)
 ---
 # I'm Johnatan Willow || Je suis Johnatan Willow 👋
 
