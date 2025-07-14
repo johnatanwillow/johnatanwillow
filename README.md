@@ -28,6 +28,13 @@ Com Docker, estou aprendendo a criar ambientes de desenvolvimento mais rápidos 
 
 ---
 ##⚡ Fun fact: Adoro café, astronomia e literatura ☕
+### O meu brinquedinho (Greika 70070 Azimutal):
+![IMG_20240727_003052796](https://github.com/user-attachments/assets/ef186f19-1b7b-4f57-b169-0f60f49cfa1e)
+
+### O que eu costumo observar com ele
+![IMG_20240917_233736301~2](https://github.com/user-attachments/assets/5c88aa6d-898f-4d88-a68f-d723b3ad5fbb)]
+
+
 ---
 ## 📊 Estatísticas do GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnatanwillow&show_icons=true&theme=dracula)
